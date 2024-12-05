@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learning Art Space</string>
+
+    <string name="fasil">Fasil Mosque</string>
+    <string name="fasil_year">1986</string>
+
+    <string name="suhawa">Peer Suhawa</string>
+    <string name="suhawa_year">2024</string>
+
+    <string name="harappa">Harappa</string>
+    <string name="harappa_year">1800</string>
+
+    <string name="salt">Khewra Salt Gun</string>
+    <string name="salt_year">300</string>
+</resources>
